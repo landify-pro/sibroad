@@ -143,7 +143,7 @@ export default function Home() {
 
           <h1 className="hero-enter hero-enter-2">
             Строим дороги,<br />
-            <span>соединяем города</span>
+            <span>соединяем<br />города</span>
           </h1>
 
           <div className="hero-lead hero-enter hero-enter-3">
